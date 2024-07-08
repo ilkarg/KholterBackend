@@ -1,0 +1,4 @@
+from modules.module_kholter.routes.view_add_kholter import ViewAddKholter
+from modules.module_kholter.routes.view_get_kholter import ViewGetKholter
+from modules.module_kholter.routes.view_update_kholter import ViewUpdateKholter
+from modules.module_kholter.routes.view_delete_kholter import ViewDeleteKholter
